@@ -4,7 +4,7 @@
 	"documentation": "https://github.com/MarkoMarjamaa/homeassistant-paxcalima",
 	"dependencies": [],
 	"requirements": ["calima==2.0.0"],
-	"codeowners": ["MarkoMarjamaa"],
+	"codeowners": ["@MarkoMarjamaa"],
 	"iot_class": "local_polling",
-	"verison": "local_polling"
+	"verison": "1.0.0"
 }
