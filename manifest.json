@@ -1,8 +1,10 @@
 {
-	"domain": "pax_calima",
+	"domain": "paxcalima",
 	"name": "Pax Calima",
-	"documentation": "",
+	"documentation": "https://github.com/MarkoMarjamaa/homeassistant-paxcalima",
 	"dependencies": [],
 	"requirements": ["calima==2.0.0"],
-	"codeowners": [""]
+	"codeowners": ["MarkoMarjamaa"],
+	"iot_class": "local_polling",
+	"verison": "local_polling"
 }
