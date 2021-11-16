@@ -1,7 +1,7 @@
 {
 	"domain": "paxcalima",
 	"name": "Pax Calima",
-	"documentation": "https://github.com/MarkoMarjamaa/homeassistant-paxcalima",
+	"documentation": "https://github.com/timutta/homeassistant-paxcalima",
 	"dependencies": [],
 	"requirements": ["calima>=2.0.0"],
 	"codeowners": ["@MarkoMarjamaa"],
